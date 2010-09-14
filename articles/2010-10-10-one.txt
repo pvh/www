@@ -1,7 +1,5 @@
-title: The Wonderful Wizard of Oz
-author: Lyman Frank Baum
-date: 1900/05/17
+title: Building a Cloud Service
+author: pvh
+date: 2010/10/13
 
-Dorothy lived in the midst of the great Kansas prairies, with Uncle Henry, 
-who was a farmer, and Aunt Em, who was the farmer's wife.
-
+Heroku makes a great platform for running cloud services on.
