@@ -1,0 +1,11 @@
+--- 
+title: Cloud Services on Heroku
+date: 14/09/2010
+
+If the internet in general had a motto, it would be "nobody has to wonder". If the cloud had one, it would be "nobody has to wait". Traditional web development models are naturally conservative. Learning to install and adminster new software packages is intimidating, and hosting them requires a certain amount of experience that many users don't have. By providing a high-quality monitored, backed-up, performant, on-demand version of a service, you can reduce a developer's barrier to entry with new technology to nothing more than "heroku addons:add foo".
+
+I've built just such a service on Heroku, and in this series of blog posts, I'm going to talk about the architecture, the features, and the challenges of building and operating your very own cloud service platform.
+~
+Let's begin by talking about what a cloud service is.
+
+

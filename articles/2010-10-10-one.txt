@@ -1,5 +1,0 @@
-title: Building a Cloud Service
-author: pvh
-date: 2010/10/13
-
-Heroku makes a great platform for running cloud services on.
