@@ -1,4 +1,4 @@
-require 'toto'
+require 'vendor/toto/lib/toto'
 
 @config = Toto::Config::Defaults
 
