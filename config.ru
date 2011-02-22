@@ -1,4 +1,4 @@
-require 'vendor/toto/lib/toto'
+require 'toto'
 
 # Rack config
 use Rack::Static, :urls => ['/css', '/js', '/images', '/favicon.ico'], :root => 'public'
