@@ -1,0 +1,16 @@
+{
+  "name": "pvh",
+  "version": "1.0.0",
+  "description": "pvh static site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "NODE_ENV=production harp server -p $PORT",
+    "dev": "harp server"
+  },
+  "author": "pvh",
+  "license": "non-free",
+  "dependencies": {
+    "harp": "~0.17.0"
+  }
+}
